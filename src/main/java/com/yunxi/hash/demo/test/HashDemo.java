@@ -7,19 +7,19 @@ import java.util.Set;
 
 /**
  * @Author: 无双老师【云析学院】
- * @Date: 2019-07-24 00:17
+ * @Date: 2020-08-14 00:17
  * @Description: Alibaba初试题
  */
 public class HashDemo {
     public static void main(String[] args) {
 
-        test1();
+//        test1();
 
 //        test2();
 
 //        test3();
 
-//        test4();
+        test4();
     }
 
     /**
